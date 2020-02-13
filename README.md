@@ -38,10 +38,10 @@ We've since updated the dictionary to remove terms that either a) caught too man
 This dictionary has been updated over time (see above for details), and so different papers/studies used different versions of the dictionary. 
 
 ### Thorson et al., 2019 --- IC&S paper 
-For this paper, the March 2017 version of the dictionary was used, with ~30,000 terms in it. 
+For this paper, the March 2017 version of the dictionary (file name: 1.0-dictionary-ics-submission.xlsx) was used, with ~30,000 terms in it. 
 
 ### Cotter et al. (under review) --- Big Data & Society
-For this study, the used March 2019 version of the dictionary was used, with ~50,000 terms in it.  
+For this study, the used March 2019 version of the dictionary (file name: 2.0-dictionary-bds-submission-2019-march.xlsx) was used, with ~50,000 terms in it.  
 
 ## References / sources of the data 
 BallotPedia. (2017). List of current mayors of the top 100 cities in the United States [Data file]. Available from BallotPedia Web site: [https://ballotpedia.org/List_of_current_mayors_of_the_top_100_cities_in_the_United_States]
